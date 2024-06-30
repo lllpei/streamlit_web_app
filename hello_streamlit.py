@@ -4,7 +4,6 @@ import time
 st.title('Aアプリ')
 st.caption('これはテストアプリです')
 st.subheader('自己紹介')
-st.text('Aです。よろしくお願いします。')
 code = '''
 AAAAAAAAAAAAAAA
 BBBBBBBBBBBBBBBB
